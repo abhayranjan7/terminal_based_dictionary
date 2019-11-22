@@ -30,9 +30,9 @@ Now execute the below command in the given format
 ```
 python main.py -s <startdate_rfc-3339_format> -e <enddate_rfc-3339_format> -f CSV.csv
 ```
-*Startdate : From this time calculations will be calculated
-*Enddate : Till this time calculations will be calculated
-*File : From this csv file data will be generated
-e.g of rfc-3339 format is : 2018-11-02T12:00:00+02:00
+*Startdate : From this time calculations will be calculated  
+*Enddate : Till this time calculations will be calculated  
+*File : From this csv file data will be generated  
+e.g of rfc-3339 format is : 2018-11-02T12:00:00+02:00  
 
 
